@@ -5,4 +5,4 @@ This launcher is not cross-platform alas, so this is an attempt to implement the
 This is a CMake-based project which should build for all the relevant platforms with relative ease.
 
 ![Original Encounter Launcher](Images/EncounterLauncherScreenShot.png)
-![Project So Far](Imags/projectSoFar.png)
+![Project So Far](Images/projectSoFar.png)
